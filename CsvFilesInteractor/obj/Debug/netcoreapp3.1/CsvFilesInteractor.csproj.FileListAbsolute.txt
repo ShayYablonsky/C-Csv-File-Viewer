@@ -1,0 +1,13 @@
+C:\Users\Shaik\source\repos\CsvFilesInteractor\CsvFilesInteractor\bin\Debug\netcoreapp3.1\CsvFilesInteractor.exe
+C:\Users\Shaik\source\repos\CsvFilesInteractor\CsvFilesInteractor\bin\Debug\netcoreapp3.1\CsvFilesInteractor.deps.json
+C:\Users\Shaik\source\repos\CsvFilesInteractor\CsvFilesInteractor\bin\Debug\netcoreapp3.1\CsvFilesInteractor.runtimeconfig.json
+C:\Users\Shaik\source\repos\CsvFilesInteractor\CsvFilesInteractor\bin\Debug\netcoreapp3.1\CsvFilesInteractor.runtimeconfig.dev.json
+C:\Users\Shaik\source\repos\CsvFilesInteractor\CsvFilesInteractor\bin\Debug\netcoreapp3.1\CsvFilesInteractor.dll
+C:\Users\Shaik\source\repos\CsvFilesInteractor\CsvFilesInteractor\bin\Debug\netcoreapp3.1\CsvFilesInteractor.pdb
+C:\Users\Shaik\source\repos\CsvFilesInteractor\CsvFilesInteractor\obj\Debug\netcoreapp3.1\CsvFilesInteractor.AssemblyInfoInputs.cache
+C:\Users\Shaik\source\repos\CsvFilesInteractor\CsvFilesInteractor\obj\Debug\netcoreapp3.1\CsvFilesInteractor.AssemblyInfo.cs
+C:\Users\Shaik\source\repos\CsvFilesInteractor\CsvFilesInteractor\obj\Debug\netcoreapp3.1\CsvFilesInteractor.csproj.CoreCompileInputs.cache
+C:\Users\Shaik\source\repos\CsvFilesInteractor\CsvFilesInteractor\obj\Debug\netcoreapp3.1\CsvFilesInteractor.dll
+C:\Users\Shaik\source\repos\CsvFilesInteractor\CsvFilesInteractor\obj\Debug\netcoreapp3.1\CsvFilesInteractor.pdb
+C:\Users\Shaik\source\repos\CsvFilesInteractor\CsvFilesInteractor\obj\Debug\netcoreapp3.1\CsvFilesInteractor.genruntimeconfig.cache
+C:\Users\Shaik\source\repos\CsvFilesInteractor\CsvFilesInteractor\obj\Debug\netcoreapp3.1\CsvFilesInteractor.csprojAssemblyReference.cache
